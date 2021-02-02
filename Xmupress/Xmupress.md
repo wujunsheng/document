@@ -11,4 +11,4 @@
 |GitLab|192.168.100.122|wjs|wjs123|服务器|
 |Debian|192.168.100.122|root|gitlab|账号|
 |Debian|192.168.100.122|gitlab|gitlab|账号|
-| | | | | |
+||||||
